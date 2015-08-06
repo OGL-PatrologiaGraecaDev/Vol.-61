@@ -1,0 +1,20 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/61/hvd.32044054758685/591.png"; bbox 0 0 4066 6192; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1507 1414 2073 1509">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1507 1414 2073 1509">
+     <span class='ocr_line' id='line_1_1' title="bbox 1507 1414 2073 1509; baseline 0.007 -4"><span class='ocrx_word' id='word_1_1' title='bbox 1507 1418 1687 1509; x_wconf 65' lang='grc' dir='ltr'>ΤΗΞΞ</span> <span class='ocrx_word' id='word_1_2' title='bbox 1741 1414 2073 1509; x_wconf 55' lang='grc' dir='ltr'>νθὶυῗεῖε</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1338 1553 2251 1645">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1338 1553 2251 1645">
+     <span class='ocr_line' id='line_1_2' title="bbox 1338 1553 2251 1645; baseline 0.001 -3"><span class='ocrx_word' id='word_1_3' title='bbox 1338 1556 1541 1643; x_wconf 64' lang='grc' dir='ltr'>[Ὃἕὲ</span> <span class='ocrx_word' id='word_1_4' title='bbox 1602 1556 1753 1643; x_wconf 58' lang='lat' dir='ltr'>MT</span> <span class='ocrx_word' id='word_1_5' title='bbox 1810 1553 2251 1645; x_wconf 66' lang='lat' dir='ltr'>CiRCULATE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1324 1688 2261 1780">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1324 1688 2261 1780">
+     <span class='ocr_line' id='line_1_3' title="bbox 1324 1688 2261 1780; baseline 0 -3"><span class='ocrx_word' id='word_1_6' title='bbox 1324 1688 1671 1780; x_wconf 62' lang='lat' dir='ltr'>(FJTSEDE</span> <span class='ocrx_word' id='word_1_7' title='bbox 1721 1690 1871 1780; x_wconf 76' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_8' title='bbox 1927 1690 2261 1778; x_wconf 72' lang='lat' dir='ltr'>LIBRARY</span> 
+     </span>
+    </p>
+   </div>
+  </div>

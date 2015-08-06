@@ -1,0 +1,86 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/61/hvd.32044004824777/003.png"; bbox 0 0 2028 3179; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 328 207 574 260">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 328 207 574 260">
+     <span class='ocr_line' id='line_1_1' title="bbox 328 207 574 260; baseline -0.016 0"><span class='ocrx_word' id='word_1_1' title='bbox 328 207 574 260; x_wconf 72' lang='lat' dir='ltr'><strong>C550./</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 701 1048 1306 1096">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 701 1048 1306 1096">
+     <span class='ocr_line' id='line_1_2' title="bbox 701 1048 1306 1096; baseline 0.01 -6"><span class='ocrx_word' id='word_1_2' title='bbox 701 1048 994 1092; x_wconf 88' lang='lat' dir='ltr'><strong>HARVARD</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1029 1052 1306 1096; x_wconf 87' lang='lat' dir='ltr'><strong>COLLEGE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 865 1127 1142 1171">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 865 1127 1142 1171">
+     <span class='ocr_line' id='line_1_3' title="bbox 865 1127 1142 1171; baseline 0.011 -3"><span class='ocrx_word' id='word_1_4' title='bbox 865 1127 1142 1171; x_wconf 86' lang='lat' dir='ltr'><strong>LIBRARY</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 824 1608 1173 1636">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 824 1608 1173 1636">
+     <span class='ocr_line' id='line_1_4' title="bbox 824 1608 1173 1636; baseline 0.011 -6"><span class='ocrx_word' id='word_1_5' title='bbox 824 1608 909 1631; x_wconf 73' lang='lat' dir='ltr'><strong>FBOM</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 919 1609 982 1632; x_wconf 77' lang='lat' dir='ltr'><strong>THE</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 992 1609 1125 1636; x_wconf 65' lang='grc' dir='ltr'><strong>Βερυεετ</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1134 1612 1173 1634; x_wconf 68' lang='grc' dir='ltr'><strong>οιτ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 769 1666 1221 1708">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 769 1666 1221 1708">
+     <span class='ocr_line' id='line_1_5' title="bbox 769 1666 1221 1708; baseline 0.004 -2"><span class='ocrx_word' id='word_1_9' title='bbox 769 1666 947 1706; x_wconf 82' lang='lat' dir='ltr'><strong>JAMES</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 984 1668 1221 1708; x_wconf 87' lang='lat' dir='ltr'><strong>WALKER</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 884 1731 1107 1765">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 884 1731 1107 1765">
+     <span class='ocr_line' id='line_1_6' title="bbox 884 1731 1107 1765; baseline 0.009 -7"><span class='ocrx_word' id='word_1_11' title='bbox 884 1731 975 1764; x_wconf 81' lang='lat' dir='ltr'><strong>(Class</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 987 1732 1019 1759; x_wconf 86' lang='lat' dir='ltr'><strong>of</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1029 1733 1107 1765; x_wconf 82' lang='lat'><strong>1814)</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 765 1785 1227 1824">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 765 1785 1227 1824">
+     <span class='ocr_line' id='line_1_7' title="bbox 765 1785 1227 1824; baseline 0.011 -12"><span class='ocrx_word' id='word_1_14' title='bbox 765 1785 912 1813; x_wconf 70' lang='lat' dir='ltr'><strong>President</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 923 1786 961 1820; x_wconf 85' lang='lat' dir='ltr'><strong>of</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 966 1787 1101 1815; x_wconf 74' lang='lat' dir='ltr'><strong><em>Humani</em></strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1112 1789 1227 1824; x_wconf 77' lang='lat' dir='ltr'><strong>Collega</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 695 1863 1293 1892">
+    <p class='ocr_par' dir='ltr' id='par_1_8' title="bbox 695 1863 1293 1892">
+     <span class='ocr_line' id='line_1_8' title="bbox 695 1863 1293 1892; baseline 0.012 -9"><span class='ocrx_word' id='word_1_18' title='bbox 695 1863 832 1884; x_wconf 54' lang='lat' dir='ltr'><strong>&quot;Preface</strong></span> <span class='ocrx_word' id='word_1_19' title='bbox 839 1865 901 1892; x_wconf 61' lang='lat' dir='ltr'><strong>being</strong></span> <span class='ocrx_word' id='word_1_20' title='bbox 909 1867 971 1892; x_wconf 63' lang='lat' dir='ltr'><strong>given</strong></span> <span class='ocrx_word' id='word_1_21' title='bbox 978 1871 1001 1887; x_wconf 75' lang='grc' dir='ltr'>ω</span> <span class='ocrx_word' id='word_1_22' title='bbox 1011 1867 1077 1887; x_wconf 69' lang='lat' dir='ltr'><strong>works</strong></span> <span class='ocrx_word' id='word_1_23' title='bbox 1087 1869 1109 1887; x_wconf 81' lang='lat' dir='ltr'><strong>in</strong></span> <span class='ocrx_word' id='word_1_24' title='bbox 1117 1869 1154 1889; x_wconf 73' lang='lat' dir='ltr'><strong>du:</strong></span> <span class='ocrx_word' id='word_1_25' title='bbox 1162 1869 1293 1890; x_wconf 67' lang='lat' dir='ltr'><strong>Incusum]</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_9' title="bbox 875 1904 1112 1926">
+    <p class='ocr_par' dir='ltr' id='par_1_9' title="bbox 875 1904 1112 1926">
+     <span class='ocr_line' id='line_1_9' title="bbox 875 1904 1112 1926; baseline 0.017 -3"><span class='ocrx_word' id='word_1_26' title='bbox 875 1904 916 1923; x_wconf 76' lang='lat' dir='ltr'><strong>Ind</strong></span> <span class='ocrx_word' id='word_1_27' title='bbox 925 1904 993 1924; x_wconf 68' lang='lat' dir='ltr'><strong>Ion]</strong></span> <span class='ocrx_word' id='word_1_28' title='bbox 1001 1905 1112 1926; x_wconf 71' lang='lat' dir='ltr'><strong>Sdsnoes&quot;</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_10' title="bbox 711 2004 1270 2013">
+    <p class='ocr_par' dir='ltr' id='par_1_10' title="bbox 711 2004 1270 2013">
+     <span class='ocr_line' id='line_1_10' title="bbox 711 2004 1270 2013; baseline 0 0"><span class='ocrx_word' id='word_1_29' title='bbox 711 2004 1270 2013; x_wconf 37' lang='lat' dir='ltr'><strong>ix,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_11' title="bbox 621 957 1377 2036">
+    <p class='ocr_par' dir='ltr' id='par_1_11' title="bbox 695 1048 1306 1926">
+     <span class='ocr_line' id='line_1_11' title="bbox 701 1048 1306 1096; baseline 0.01 -6"><span class='ocrx_word' id='word_1_30' title='bbox 701 1048 994 1092; x_wconf 89' lang='lat' dir='ltr'><strong>HARVARD</strong></span> <span class='ocrx_word' id='word_1_31' title='bbox 1029 1052 1306 1096; x_wconf 88' lang='lat' dir='ltr'><strong>COLLEGE</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 865 1127 1142 1171; baseline 0.011 -3"><span class='ocrx_word' id='word_1_32' title='bbox 865 1127 924 1170; x_wconf 95' lang='lat' dir='ltr'>LI</span> <span class='ocrx_word' id='word_1_33' title='bbox 931 1128 965 1169; x_wconf 93' lang='lat' dir='ltr'>B</span> <span class='ocrx_word' id='word_1_34' title='bbox 972 1129 1009 1170; x_wconf 87' lang='lat' dir='ltr'><strong>R</strong></span> <span class='ocrx_word' id='word_1_35' title='bbox 1016 1129 1053 1170; x_wconf 85' lang='lat' dir='ltr'><strong>A</strong></span> <span class='ocrx_word' id='word_1_36' title='bbox 1060 1130 1142 1171; x_wconf 90' lang='lat' dir='ltr'><strong>RY</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 886 1232 1123 1298; baseline 0.03 -43"><span class='ocrx_word' id='word_1_37' title='bbox 886 1267 893 1286; x_wconf 13' lang='grc' dir='ltr'><strong>Ἴ,</strong></span> <span class='ocrx_word' id='word_1_38' title='bbox 908 1232 1102 1298; x_wconf 34' lang='lat' dir='ltr'><strong>;//.’r/x‘ul\zi.\&quot;</strong></span> <span class='ocrx_word' id='word_1_39' title='bbox 1114 1289 1123 1296; x_wconf 19' lang='lat' dir='ltr'>ﬂ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_14' title="bbox 857 1255 1146 1391; baseline 0 -10"><span class='ocrx_word' id='word_1_40' title='bbox 857 1255 1146 1391; x_wconf 45' lang='grc' dir='ltr'><strong>ςέέιιωμιωιξξ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_15' title="bbox 824 1608 1173 1636; baseline 0.011 -6"><span class='ocrx_word' id='word_1_41' title='bbox 824 1608 909 1631; x_wconf 73' lang='lat' dir='ltr'><strong>FBOM</strong></span> <span class='ocrx_word' id='word_1_42' title='bbox 919 1609 982 1632; x_wconf 77' lang='lat' dir='ltr'><strong>THE</strong></span> <span class='ocrx_word' id='word_1_43' title='bbox 992 1609 1125 1636; x_wconf 65' lang='grc' dir='ltr'><strong>Βερυεετ</strong></span> <span class='ocrx_word' id='word_1_44' title='bbox 1134 1612 1173 1634; x_wconf 68' lang='grc' dir='ltr'><strong>οιτ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_16' title="bbox 769 1666 1221 1708; baseline 0.004 -2"><span class='ocrx_word' id='word_1_45' title='bbox 769 1666 791 1706; x_wconf 82' lang='lat' dir='ltr'>J</span> <span class='ocrx_word' id='word_1_46' title='bbox 797 1667 832 1703; x_wconf 91' lang='lat' dir='ltr'><strong>A</strong></span> <span class='ocrx_word' id='word_1_47' title='bbox 838 1667 879 1703; x_wconf 94' lang='grc' dir='ltr'>Μ</span> <span class='ocrx_word' id='word_1_48' title='bbox 886 1667 916 1703; x_wconf 94' lang='grc' dir='ltr'><strong>Ε</strong></span> <span class='ocrx_word' id='word_1_49' title='bbox 924 1667 947 1704; x_wconf 95' lang='lat' dir='ltr'><strong>S</strong></span> <span class='ocrx_word' id='word_1_50' title='bbox 984 1668 1063 1705; x_wconf 87' lang='lat' dir='ltr'><strong>WA</strong></span> <span class='ocrx_word' id='word_1_51' title='bbox 1070 1669 1100 1705; x_wconf 98' lang='lat' dir='ltr'><strong>L</strong></span> <span class='ocrx_word' id='word_1_52' title='bbox 1106 1670 1143 1707; x_wconf 89' lang='lat' dir='ltr'>K</span> <span class='ocrx_word' id='word_1_53' title='bbox 1150 1670 1180 1707; x_wconf 90' lang='lat' dir='ltr'><strong>E</strong></span> <span class='ocrx_word' id='word_1_54' title='bbox 1187 1671 1221 1708; x_wconf 89' lang='lat' dir='ltr'><strong><em>R</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_17' title="bbox 884 1731 1107 1765; baseline 0.009 -7"><span class='ocrx_word' id='word_1_55' title='bbox 884 1731 975 1764; x_wconf 80' lang='lat' dir='ltr'><strong>(Class</strong></span> <span class='ocrx_word' id='word_1_56' title='bbox 987 1732 1019 1759; x_wconf 86' lang='lat' dir='ltr'><strong>of</strong></span> <span class='ocrx_word' id='word_1_57' title='bbox 1029 1733 1107 1765; x_wconf 82' lang='lat'><strong>1814)</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_18' title="bbox 765 1785 1227 1824; baseline 0.013 -13"><span class='ocrx_word' id='word_1_58' title='bbox 765 1785 912 1813; x_wconf 74' lang='lat' dir='ltr'><strong>President</strong></span> <span class='ocrx_word' id='word_1_59' title='bbox 923 1786 961 1820; x_wconf 85' lang='lat' dir='ltr'><strong>of</strong></span> <span class='ocrx_word' id='word_1_60' title='bbox 966 1787 1101 1815; x_wconf 74' lang='lat' dir='ltr'><strong><em>Hamard</em></strong></span> <span class='ocrx_word' id='word_1_61' title='bbox 1112 1789 1227 1824; x_wconf 77' lang='lat' dir='ltr'><strong>Collega</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_19' title="bbox 695 1863 1293 1892; baseline 0.013 -9"><span class='ocrx_word' id='word_1_62' title='bbox 695 1863 832 1884; x_wconf 65' lang='lat' dir='ltr'><strong>&quot;Manes</strong></span> <span class='ocrx_word' id='word_1_63' title='bbox 839 1865 901 1892; x_wconf 66' lang='grc' dir='ltr'><strong>»κίοι</strong></span> <span class='ocrx_word' id='word_1_64' title='bbox 909 1867 971 1892; x_wconf 64' lang='grc' dir='ltr'><strong>δίνου</strong></span> <span class='ocrx_word' id='word_1_65' title='bbox 978 1871 1001 1887; x_wconf 76' lang='grc' dir='ltr'>ω</span> <span class='ocrx_word' id='word_1_66' title='bbox 1011 1867 1077 1887; x_wconf 67' lang='grc' dir='ltr'><strong>κατι.</strong></span> <span class='ocrx_word' id='word_1_67' title='bbox 1087 1869 1109 1887; x_wconf 81' lang='lat' dir='ltr'><strong>in</strong></span> <span class='ocrx_word' id='word_1_68' title='bbox 1117 1869 1154 1889; x_wconf 63' lang='lat' dir='ltr'><strong>the</strong></span> <span class='ocrx_word' id='word_1_69' title='bbox 1162 1869 1293 1890; x_wconf 75' lang='grc' dir='ltr'><strong>ιιιιαιιοαιιιι</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_20' title="bbox 875 1904 1112 1926; baseline 0.017 -3"><span class='ocrx_word' id='word_1_70' title='bbox 875 1904 916 1923; x_wconf 74' lang='lat' dir='ltr'><strong>Ind</strong></span> <span class='ocrx_word' id='word_1_71' title='bbox 925 1904 993 1924; x_wconf 69' lang='lat' dir='ltr'><strong>Ion]</strong></span> <span class='ocrx_word' id='word_1_72' title='bbox 1001 1905 1112 1926; x_wconf 74' lang='lat' dir='ltr'><strong>Sdsnoss&quot;</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
